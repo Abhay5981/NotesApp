@@ -1,4 +1,4 @@
-# NotesApp
+# NotesApp (https://aknotesa-app.netlify.app)
   A simple and dynamic note-taking web application built using HTML, CSS, and JavaScript. This app allows users to add, edit, and delete notes, with all data being stored in the browser's localStorage for     persistence.
 
 ## Features
