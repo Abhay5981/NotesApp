@@ -30,5 +30,5 @@
  4. Automatic Saving: Any changes you make to notes (add, edit, delete) are automatically saved to the browser's localStorage.
 
 ## Image
-
+![Final look of App]("images/finalook.png")
   
