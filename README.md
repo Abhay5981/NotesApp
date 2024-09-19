@@ -1,4 +1,4 @@
-# NotesApp (https://aknotesa-app.netlify.app)
+# NotesApp [https://aknotesa-app.netlify.app]
   A simple and dynamic note-taking web application built using HTML, CSS, and JavaScript. This app allows users to add, edit, and delete notes, with all data being stored in the browser's localStorage for     persistence.
 
 ## Features
@@ -17,9 +17,10 @@
   No installation is required. Just clone or download the repository and open the index.html file in any browser.
   Some basic Git commands are:
   ``
-  git clone https://github.com/your-username/notesapp.git
-  cd notesapp
-  open index.html
+  
+        git clone https://github.com/your-username/notesapp.git
+        cd notesapp
+        open index.html
   ``
 
   ## How to Use
